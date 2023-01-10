@@ -1,2 +1,2 @@
 # Portal
-Website http://www.linuxdominicana.org.do/
+Website https://www.linuxdominicana.org.do/
